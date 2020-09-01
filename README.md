@@ -9,9 +9,8 @@ Moro atualmente em Brasília.
 
 Estas são as tecnologias que já tive contato:
 
-![Java](https://img.shields.io/badge/-Java-007396??style=flat-square&logoColor=white)
-![Selenium](https://img.shields.io/badge/-Selenium%20WebDriver-blueviolet)
-![Cucumber](https://img.shields.io/badge/Cucumber-BDD-blue)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
