@@ -9,7 +9,7 @@ Moro atualmente em Brasília.
 
 Estas são as tecnologias que já tive contato:
 
-![Java](https://img.shields.io/badge/-Java-007396??style=flat-square&logo=intellij-idea&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396??style=flat-square&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-Selenium%20WebDriver-blueviolet)
 ![Cucumber](https://img.shields.io/badge/Cucumber-BDD-blue)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
