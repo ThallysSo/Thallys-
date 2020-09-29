@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Meu nome é Thallys, sou Estagiário de QA no Sicoob e estou nesse mundo da tecnologia desde 2018.
+Meu nome é Thallys, sou Estagiário de Testes de Software no Sicoob e estou nesse mundo da tecnologia desde 2017.
 Moro atualmente em Brasília.
 
 [![Linkedin: Thallys](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thallys-de-souza-159485180/)](https://www.linkedin.com/in/thallys-de-souza-159485180/)
