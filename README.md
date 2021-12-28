@@ -1,13 +1,12 @@
 ### Hi there 👋
 
-Meu nome é Thallys, sou Estagiário de Testes de Software no Sicoob e estou nesse mundo da tecnologia desde 2017.
-Moro atualmente em Brasília.
+My name is Thallys, I'm a Software Quality Engineer at Sicredi and I've been in the technology world since 2017.
 
 [![Linkedin: Thallys](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thallys-de-souza-159485180/)](https://www.linkedin.com/in/thallys-de-souza-159485180/)
 
 ## ⚡ Technologies
 
-Estas são as tecnologias que já tive contato:
+These are the technologies that I already work with:
 
 ![Cucumber](https://img.shields.io/badge/Cucumber-BDD-ff69b4?style=flat-square)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
