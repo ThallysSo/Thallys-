@@ -8,7 +8,6 @@ My name is Thallys, I'm Software Quality Engineer at Sicredi and I've been in th
 
 These are the technologies that I already work with:
 
-![Cucumber](https://img.shields.io/badge/Cucumber-BDD-ff69b4?style=flat-square)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![Selenium](https://img.shields.io/badge/Selenium-WebDriver-blueviolet?style=flat-square)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -21,5 +20,4 @@ These are the technologies that I already work with:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white)
-![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
