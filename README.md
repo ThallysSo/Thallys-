@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Thallys, I'm Software Quality Engineer at Sicredi and I've been in the technology world since 2017.
+My name is Thallys, I'm Software Quality Engineer at Sicredi and I've been in quality space since 2020.
 
 [![Linkedin: Thallys](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thallys-de-souza-159485180/)](https://www.linkedin.com/in/thallys-de-souza-159485180/)
 
